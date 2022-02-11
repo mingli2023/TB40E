@@ -2,7 +2,7 @@ track KF297339.1
 type bigGenePred
 group map
 priority 1
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master /KF297339.1/KF297339.1.bb
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/KF297339.1/KF297339.1.bb
 longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
 shortLabel GenBank KF297339.1
 visibility pack
@@ -13,7 +13,7 @@ track ORFs-GSE41605
 type bigBed 6 .
 group map
 priority 2
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master /KF297339.1/decoding_HCMV_ORFs.bb
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/KF297339.1/decoding_HCMV_ORFs.bb
 longLabel ORFs identified in Decoding HCMV Using Ribosome Profiling (GSE41605)
 shortLabel Identified ORFs
 visibility pack
@@ -24,7 +24,7 @@ track a_24_h_Flavo
 compositeTrack on
 type bigWig 0 1000
 group cmvtimecourse
-priority 2
+priority 1
 visibility full
 shortLabel Exp3 24h Flavo
 longLabel PRO-Seq of HFF infected for 24 hours with TB40 and treated with Flavo during the last hour of infection
@@ -62,7 +62,7 @@ track a_72_h_Flavo
 compositeTrack on
 type bigWig 0 1000
 group cmvtimecourse
-priority 2
+priority 1
 visibility full
 shortLabel Exp3 72h Flavo
 longLabel PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
