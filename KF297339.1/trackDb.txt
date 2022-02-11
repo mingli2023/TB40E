@@ -9,21 +9,12 @@ visibility pack
 
 ###########
 
-track a_24_h_Flavo
-compositeTrack on
-type bigWig 0 1000
-group cmvtimecourse
-priority 1
-visibility full
-shortLabel Exp3 24h Flavo
-longLabel PRO-Seq of HFF infected for 24 hours with TB40 and treated with Flavo during the last hour of infection
-
 track a_24_h_Flavo_FW
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
-longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
+longLabel Forward 
 shortLabel F Exp3 24h Flavo
 negateValues off
 color 153,58,29
@@ -37,7 +28,7 @@ parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
-longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
+longLabel Reverse
 shortLabel R Exp3 24h Flavo
 negateValues on
 color 153,58,29
@@ -48,21 +39,12 @@ maxHeightPixels 128:128:16
 
 ##########
 
-track a_72_h_Flavo
-compositeTrack on
-type bigWig 0 1000
-group cmvtimecourse
-priority 1
-visibility full
-shortLabel Exp3 72h Flavo
-longLabel PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
-
 track a_72_h_Flavo_FW
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
-longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
+longLabel Forward strand 
 shortLabel F Exp3 72h Flavo
 negateValues off
 color 153,58,29
@@ -76,7 +58,7 @@ parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
-longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
+longLabel Reverse strand
 shortLabel R Exp3 72h Flavo
 negateValues on
 color 153,58,29
