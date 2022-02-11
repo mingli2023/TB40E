@@ -1,0 +1,6 @@
+hub KF297339.1
+shortLabel KF297339.1
+longLabel A compilation of global HCMV datasets that interrogate the effects of loss of HCMV protein IE2 on viral gene transcription late in infection
+genomesFile genomes.txt
+email ming-li@uiowa.edu
+descriptionUrl https://www.ncbi.nlm.nih.gov/nuccore/KF297339.1
