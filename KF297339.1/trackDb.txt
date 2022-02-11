@@ -9,6 +9,15 @@ visibility pack
 
 ###########
 
+track a_24_h_Flavo
+compositeTrack on
+type bigWig 0 1000
+group cmvtimecourse
+priority 1
+visibility full
+shortLabel Exp3 24h Flavo
+longLabel PRO-Seq
+
 track a_24_h_Flavo_FW
 parent a_24_h_Flavo on
 type bigWig 0 1000
@@ -38,6 +47,15 @@ autoScale on
 maxHeightPixels 128:128:16
 
 ##########
+
+track a_72_h_Flavo
+compositeTrack on
+type bigWig 0 1000
+group cmvtimecourse
+priority 2
+visibility full
+shortLabel Exp3 72h Flavo
+longLabel PRO-Seq of 
 
 track a_72_h_Flavo_FW
 parent a_72_h_Flavo on
