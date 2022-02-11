@@ -2,7 +2,7 @@ track KF297339.1
 type bigGenePred
 group map
 priority 1
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/KF297339.1/KF297339.1.bb
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/KF297339.1.bb
 longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
 shortLabel GenBank KF297339.1
 visibility pack
@@ -22,7 +22,7 @@ track a_24_h_Flavo_FW
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
 shortLabel F Exp3 24h Flavo
 negateValues off
@@ -36,7 +36,7 @@ track a_24_h_Flavo_RV
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
 shortLabel R Exp3 24h Flavo
 negateValues on
@@ -61,7 +61,7 @@ track a_72_h_Flavo_FW
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 shortLabel F Exp3 72h Flavo
 negateValues off
@@ -75,7 +75,7 @@ track a_72_h_Flavo_RV
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 shortLabel R Exp3 72h Flavo
 negateValues on
