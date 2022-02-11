@@ -1,0 +1,19 @@
+name IE2-FKBP
+label PRO-Seq Datasets
+priority 1
+defaultIsClosed 0
+
+name cmvtimecourse
+label PRO-Seq Datasets
+priority 2
+defaultIsClosed 0
+
+name Merlin_mRNA_seq
+label mRNA-Seq Dataset
+priority 3
+defaultIsClosed 0
+
+name map
+label Mapping
+priority 4
+defaultIsClosed 0
