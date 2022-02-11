@@ -9,17 +9,6 @@ visibility pack
 
 ###########
 
-track ORFs-GSE41605
-type bigBed 6 .
-group map
-priority 2
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/decoding_HCMV_ORFs.bb
-longLabel ORFs identified in Decoding HCMV Using Ribosome Profiling (GSE41605)
-shortLabel Identified ORFs
-visibility pack
-
-###########
-
 track a_24_h_Flavo
 compositeTrack on
 type bigWig 0 1000
