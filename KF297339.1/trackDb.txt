@@ -89,7 +89,7 @@ maxHeightPixels 128:128:16
 track H3K4mes_48hpi_ChIP
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/Test/master/KF297339.1/GSM5620716_Exp3_HFF_TB40e_H3K4me3_KF297339.1.bw
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/GSM5620716_Exp3_HFF_TB40e_H3K4me3_KF297339.1.bw
 longLabel PolII 24hpi ChIP
 shortLabel PolII 24hpi ChIP
 negateValues off
