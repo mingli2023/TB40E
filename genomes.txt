@@ -7,3 +7,13 @@ organism Human cytomegalovirus
 defaultPos KF297339.1:1-237683
 orderKey 4800
 scientificName Human cytomegalovirus
+
+genome HCMV_GFP.fa
+trackDb KF297339.1/trackDb.txt
+groups KF297339.1/groups.txt
+description 2013-07-07 Human herpesvirus 5 strain TB40/E
+twoBitPath HCMV_GFP.gtf
+organism Human cytomegalovirus
+defaultPos KF297339.1:1-237683
+orderKey 4800
+scientificName Human cytomegalovirus
