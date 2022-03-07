@@ -99,4 +99,19 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
+#############
+
+track 24hpi_ChIP_TB40E
+type bigWig 0 1000
+visibility full
+bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5226485_H3K27Ac_24hpi_ChIP_TB40E_Rep1.bigWig
+longLabel H3K4me3 24 hpi
+shortLabel H3K4me3 24 hpi
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
 ##################################################
