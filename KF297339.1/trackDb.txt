@@ -108,8 +108,8 @@ bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/T
 longLabel Pol-II 48 hpi
 shortLabel Pol-II 48 hpi
 negateValues off
-color 238,142,0
-altColor 238,142,0
+color 54,22,246
+altColor 54,22,246
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
