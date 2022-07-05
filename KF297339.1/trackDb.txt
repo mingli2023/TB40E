@@ -2,7 +2,7 @@ track KF297339.1
 type bigGenePred
 group map
 priority 1
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/KF297339.1.bb
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/KF297339.1.bb
 longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
 shortLabel GenBank KF297339.1
 visibility pack
@@ -22,7 +22,7 @@ track a_24_h_Flavo_FW
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
 shortLabel F Exp3 24h Flavo
 negateValues off
@@ -36,7 +36,7 @@ track a_24_h_Flavo_RV
 parent a_24_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-24hpi-Flavo-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 24 hours with TB40-IE2-FKBP and treated with Flavo during the last hour of infection
 shortLabel R Exp3 24h Flavo
 negateValues on
@@ -60,7 +60,7 @@ track a_72_h_Flavo_FW
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 shortLabel F Exp3 72h Flavo
 negateValues off
@@ -74,7 +74,7 @@ track a_72_h_Flavo_RV
 parent a_72_h_Flavo on
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-Norm-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 shortLabel R Exp3 72h Flavo
 negateValues on
@@ -89,7 +89,7 @@ maxHeightPixels 128:128:16
 track HFF_TB40e_H3K4me3
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5620716_Exp3_HFF_TB40e_H3K4me3_KF297339.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5620716_Exp3_HFF_TB40e_H3K4me3_KF297339.1.bw
 longLabel H3K4me3 48 hpi
 shortLabel H3K4me3 48 hpi
 negateValues off
@@ -104,7 +104,7 @@ maxHeightPixels 128:128:16
 track HFF_TB40e_Pol-II
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5620717_Exp3_HFF_TB40e_Pol-II_KF297339.1.bw
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5620717_Exp3_HFF_TB40e_Pol-II_KF297339.1.bw
 longLabel Pol-II 48 hpi
 shortLabel Pol-II 48 hpi
 negateValues off
@@ -119,7 +119,7 @@ maxHeightPixels 128:128:16
 track H3K27Ac_24hpi_ChIP
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5226485_H3K27Ac_24hpi_ChIP_TB40E_Rep1.bigWig
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5226485_H3K27Ac_24hpi_ChIP_TB40E_Rep1.bigWig
 longLabel H3K4me3 24 hpi
 shortLabel H3K4me3 24 hpi
 negateValues off
@@ -134,7 +134,7 @@ maxHeightPixels 128:128:16
 track PolII_24hpi_ChIP
 type bigWig 0 1000
 visibility full
-bigDataUrl https://mingli2023:Liming1983*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5226481_PolII_24hpi_ChIP_TB40E_Rep1.bigWig
+bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5226481_PolII_24hpi_ChIP_TB40E_Rep1.bigWig
 longLabel PolII 24 hpi
 shortLabel PolII 24 hpi
 negateValues off
