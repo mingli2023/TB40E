@@ -155,8 +155,8 @@ visibility full
 shortLabel Exp1 72h UL79HF Flavo
 longLabel PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 
-track a_72h_UL79HF_FW
-parent a_72h_UL79HF on
+track a_72h_UL79HF_Flavo_FW
+parent a_72h_UL79HF_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-FW.bw
@@ -169,8 +169,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-track a_72h_UL79HF_RV
-parent a_72h_UL79HF on
+track a_72h_UL79HF_Flavo_RV
+parent a_72h_UL79HF_Flavo on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-RV.bw
@@ -184,6 +184,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+
 track a_72h_UL79HF_Flavo_dTAG
 compositeTrack on
 type bigWig 0 1000
@@ -193,8 +194,8 @@ visibility full
 shortLabel Exp1 72h UL79HF Flavo dTAG
 longLabel PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
 
-track a_72h_UL79HF_dTAG_FW
-parent a_72h_UL79HF_dTAG on
+track a_72h_UL79HF_Flavo_dTAG_FW
+parent a_72h_UL79HF_Flavo_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-FW.bw 
@@ -207,8 +208,8 @@ alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
 
-track a_72h_UL79HF_dTAG_RV
-parent a_72h_UL79HF_dTAG on
+track a_72h_UL79HF_Flavo_dTAG_RV
+parent a_72h_UL79HF_Flavo_dTAG on
 type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-RV.bw
