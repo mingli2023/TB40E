@@ -161,7 +161,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-FW.bw
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
-shortLabel F Exp1 72h UL79HF Flavo
+shortLabel F 72h UL79HF Flavo
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -175,7 +175,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/Exp1_72h_UL79HF_Flavo-dedup-KF297339.1-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
-shortLabel R Exp3 72h UL79HF Flavo
+shortLabel R 72h UL79HF Flavo
 negateValues on
 color 153,58,29
 altColor 153,58,29
@@ -200,7 +200,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-FW.bw 
 longLabel Forward strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
-shortLabel F Exp1 72h UL79HF Flavo dTAG
+shortLabel F UL79HF Flavo dTAG
 negateValues off
 color 153,58,29
 altColor 153,58,29
@@ -214,7 +214,7 @@ type bigWig 0 1000
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/Exp1_72h_UL79HF_Flavo_dTAG-dedup-KF297339.1-RV.bw
 longLabel Reverse strand PRO-Seq of HFF infected for 72 hours with TB40 and treated with Flavo during the last hour of infection
-shortLabel R Exp3 72h UL79HF Flavo dTAG
+shortLabel R UL79HF Flavo dTAG
 negateValues on
 color 153,58,29
 altColor 153,58,29
