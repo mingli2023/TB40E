@@ -11,7 +11,6 @@ visibility pack
 
 track test
 type bigWig 0 1000
-description="Includes -0 for minor scale" 
 visibility full
 bigDataUrl https://mingli2023:Liming2030*@raw.githubusercontent.com/mingli2023/TB40E/master/KF297339.1/cmvtimecourse/GSM5226481_PolII_24hpi_ChIP_TB40E_Rep1.bigWig
 longLabel Test
